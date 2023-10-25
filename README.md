@@ -18,6 +18,7 @@
 ![Screenshot (201)](https://github.com/Maullynn/praktikum3/assets/144296695/7923c9a7-73df-40f7-ade3-940bd151173f)
 ## latihan3
 ![Screenshot (203)](https://github.com/Maullynn/praktikum3/assets/144296695/ef2973d7-5684-4e98-bb5c-1d8ee7a4f8e9)
+
 -membuat belah ketupat
 ## command 
  - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
