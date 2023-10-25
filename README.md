@@ -1,4 +1,4 @@
-![Screenshot (201)](https://github.com/Maullynn/praktikum3/assets/144296695/8836a0d5-f961-4814-911c-4fc002d59fc3)# PRAKTIKUM 3
+## PRAKTIKUM 3
 
 # Installation environmet virtual(venv) & Deactivate di visual studio code
 - python - m venv praktikum3
